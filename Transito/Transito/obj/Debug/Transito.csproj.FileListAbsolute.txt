@@ -1,0 +1,14 @@
+C:\Users\Nativo Soft\Desktop\Programas\Transito\Transito\bin\Debug\Transito.exe.config
+C:\Users\Nativo Soft\Desktop\Programas\Transito\Transito\bin\Debug\Transito.exe
+C:\Users\Nativo Soft\Desktop\Programas\Transito\Transito\bin\Debug\Transito.pdb
+C:\Users\Nativo Soft\Desktop\Programas\Transito\Transito\obj\Debug\Transito.csprojAssemblyReference.cache
+C:\Users\Nativo Soft\Desktop\Programas\Transito\Transito\obj\Debug\Transito.csproj.CoreCompileInputs.cache
+C:\Users\Nativo Soft\Desktop\Programas\Transito\Transito\obj\Debug\Transito.exe
+C:\Users\Nativo Soft\Desktop\Programas\Transito\Transito\obj\Debug\Transito.pdb
+C:\Users\Usuario\Desktop\Trabajos finales\Nuevos Programas\Transito\Transito\bin\Debug\Transito.exe.config
+C:\Users\Usuario\Desktop\Trabajos finales\Nuevos Programas\Transito\Transito\bin\Debug\Transito.exe
+C:\Users\Usuario\Desktop\Trabajos finales\Nuevos Programas\Transito\Transito\bin\Debug\Transito.pdb
+C:\Users\Usuario\Desktop\Trabajos finales\Nuevos Programas\Transito\Transito\obj\Debug\Transito.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Desktop\Trabajos finales\Nuevos Programas\Transito\Transito\obj\Debug\Transito.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Trabajos finales\Nuevos Programas\Transito\Transito\obj\Debug\Transito.exe
+C:\Users\Usuario\Desktop\Trabajos finales\Nuevos Programas\Transito\Transito\obj\Debug\Transito.pdb
